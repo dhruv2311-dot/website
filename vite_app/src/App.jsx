@@ -3,7 +3,7 @@
 import Logo from './assets/header-white-logo.png'
 import './style.css';
 import career from './assets/career.svg'
-import india from './assets/Build-for-india.png'
+import india from './assets/build-for-india.png'
 import fast from './assets/fast-paced.png'
 import culture from './assets/culture.png'
 import growth from './assets/growth.png'
