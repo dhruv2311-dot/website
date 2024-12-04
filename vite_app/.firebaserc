@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "fir-demo-project",
+    "build": "fir-demo-project",
+    "deploy": "fir-demo-project"
+  }
+}
