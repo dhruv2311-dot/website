@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    background-color: #10847e;
+    margin: 0px 0px;
+    height: 70px;
+}
+.logo img{
+    height: 30px;
+    width: 120px;
+    margin: 20px 170px;
+}
+.logo2{
+   margin: -261px 240px;
+  
+   width: 1000px;
+}
+.logo2 img{
+    height: 1000px;
+    width: 1100px;
+}
+
+.container {
+    text-align: left;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width:2000px;
+    margin: 38px 380px;
+  }
+  
+  h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #666;
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+  
+  #apply-button {
+    background-color: #007b7f;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    display: inline-flex;
+    align-items: center;
+  }
+  #apply-button:hover{
+    background-color: aqua;
+  }
+  
+  #apply-button::after {
+    content: "➔";
+    margin-left: 10px;
+  }
+  .text{
+    margin:63px 377px ;
+    padding: 0px 10px;
+  }
+  .c1 img{
+    height:55px;
+    width: 55px ;
+  }
+  .main{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-evenly;
+
+    
+  }
+.main2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction:row ;
+    margin:10px ;
+}
+.txt2{
+    margin:  55px 379px;
+}
+.img1 img{
+    height: 500px ;
+    width: 755px;
+    margin: 20px 380px;
+}
+.info{
+   
+    height: 300px;
+    background-color: #10847e;
+    margin: 143px 0px;
+    display: flex;
+}
+.info p{
+    color: white;
+    font-size: 25px;
+}
+.info img{
+    height: 454px ;
+    width: 334px;
+    margin: -154px 240px;
+}
+.txt3{
+    margin: -40px 155px;
+}
+.txt3 h2{
+    font-size:30px;
+}
+.img2 img{
+    height: 661px ;
+    width:900px;
+}
+.img2{
+    margin: 51px 300px;
+}
+.txt4 h2{
+    font-size:30px ;
+}
+.txt4 p{
+    font-size: 20px;
+}
+.txt4{
+    margin: 0px 173px;
+}
+.profile-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    margin: 0px 550px;
+  }
+  
+  .profile-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .profile-details h2 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .profile-role {
+    font-size: 14px;
+    color: #777;
+    margin: 5px 0 10px;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px dashed #ccc;
+    margin: 10px 0;
+  }
+  
+  .profile-description {
+    font-size: 14px;
+    color: #555;
+    line-height: 1.6;
+  }
+ .bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px ;
+    background-color: whitesmoke;
+ }
+ .section{
+    display: flex;
+    flex-direction: column ;
+    align-items: flex-start;
+ }
+ .bottom-logo img{
+    height: 30px;
+    width: 120px;
+ }
+ .bottom-logo{
+    display: flex;
+  
+ }
+ .section h3 {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .section ul li {
+    margin: 5px 0;
+  }
+  
+  .footer-section ul li {
+    text-decoration: none;
+    color: #00796b;
+  }
+  
+  .section ul li:hover {
+    text-decoration: underline;
+  }
+  
+  .icons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .icons a {
+    text-decoration: none;
+    color: #00796b;
+    font-size: 20px;
+  }
+  
+  .icons a:hover {
+    color: #00574b;
+  }
+  .data{
+    margin: 45px 590px;
+  }
+  .form{
+    margin: 0px 579px;
+   
+  }
+  .form input{
+    padding: 0px 20px;
+  }
